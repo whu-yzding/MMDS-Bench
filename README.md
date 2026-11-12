@@ -4,9 +4,8 @@ MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in S
 
 ## Quick Links
 - [Overview](#overview)
-- [Requirements](#requirements)
-- [Code Usage](#code-usage)
 - [Citation](#citation)
+- [Contact](#contact)
 
 ## Overview
 This repository open-sources the code and datas in our [paper](https://aclanthology.org/2026.emnlp-main.1165/)「**MMDS-Bench: Benchmarking Multimodal Large Language Models on Dynamic Stance in Social Media Interactions**」in EMNLP2026 Main long paper.
